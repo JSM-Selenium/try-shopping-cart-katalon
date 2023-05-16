@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Search functionality</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2cc0b5e7-f2fc-4c41-92d1-13e410657b9f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>83ece8f3-07d0-484f-ba5d-5142551c3a71</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Flying Ninja'</defaultValue>
+      <description></description>
+      <id>83ece8f3-07d0-484f-ba5d-5142551c3a71</id>
+      <masked>false</masked>
+      <name>productName</name>
+   </variable>
+</TestCaseEntity>

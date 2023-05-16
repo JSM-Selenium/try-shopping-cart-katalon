@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Shop</name>
+   <tag></tag>
+   <elementGuidId>1373caec-c5e5-4eb6-ae3e-d524ef8bd1fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.woocommerce-products-header__title.page-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page']/header/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>39109ad5-6c6e-45ae-b422-47a8974a9d9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-products-header__title page-title</value>
+      <webElementGuid>562249ab-10f4-4cec-a55e-b06335fb24c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shop</value>
+      <webElementGuid>739f89c1-423d-4572-9eef-c8ae838b2bb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page&quot;)/header[@class=&quot;page-header-block&quot;]/h1[@class=&quot;woocommerce-products-header__title page-title&quot;]</value>
+      <webElementGuid>b4979d31-3860-4cdf-8f90-ed9476588d21</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page']/header/h1</value>
+      <webElementGuid>f3e21076-fdf4-475c-957f-2490afcc63e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop'])[1]/following::h1[1]</value>
+      <webElementGuid>70ff2542-5e7c-4abc-9bc0-60b73e06e64d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sample Page'])[1]/following::h1[1]</value>
+      <webElementGuid>5b6ac570-d908-4183-9be0-e664c5b19e21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Default sorting'])[2]/preceding::h1[1]</value>
+      <webElementGuid>ac3a91cc-2391-4df4-b248-5ffc67953fdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sale!'])[1]/preceding::h1[1]</value>
+      <webElementGuid>0fd2676d-c66a-4d12-af41-8eaff7a8f7fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>447e943b-aca4-4157-93de-3b9ba672fb0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Shop' or . = 'Shop')]</value>
+      <webElementGuid>1447cb31-ef0c-42f7-9060-52587a1aa7f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
